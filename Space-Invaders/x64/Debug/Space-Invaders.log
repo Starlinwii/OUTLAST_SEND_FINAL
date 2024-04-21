@@ -1,0 +1,9 @@
+﻿  EnemyController.cpp
+C:\Users\moren\source\repos\SME-Assignment\Space-Invaders\source\Enemy\EnemyController.cpp(53,27): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  PlayerController.cpp
+C:\Users\moren\source\repos\SME-Assignment\Space-Invaders\header\Gameplay\HighScore.h(17,6): warning C4091: 'static ': se ha omitido a la izquierda de 'Gameplay::HighScore' cuando no hay ninguna variable declarada
+  PlayerService.cpp
+  PlayerView.cpp
+  PowerupController.cpp
+  Generando código...
+  Space-Invaders.vcxproj -> C:\Users\moren\source\repos\SME-Assignment\Space-Invaders\x64\Debug\Space-Invaders.exe
